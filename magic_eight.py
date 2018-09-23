@@ -36,4 +36,4 @@ while q != "quit":
 	if q[-1] != "?":
 		print("I’m sorry, I can only answer questions.")
 	q = ask_for_question()
-#print(give_an_answer())
+print(give_an_answer())
